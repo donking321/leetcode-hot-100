@@ -1,0 +1,22 @@
+【算法实习冲刺 - Day 1】
+
+题目：
+1. Two Sum
+2. Group Anagrams
+3. Longest Consecutive Sequence
+4. Move Zeroes
+5. 盛最多水的容器
+
+核心问题：
+- HashMap 的 key / value 含义
+- 一次遍历 vs 暴力思维
+- 双指针中“为什么这么移动”
+
+面试易错点：
+- 容易退回到 O(n²) 描述
+- 概念表述不够标准
+- 慢指针语义说不清
+
+当前自评：
+- 算法理解：7.5/10
+- 面试表达：6.5/10
